@@ -1,5 +1,5 @@
 <?php
 
-$conn = new mysqli("localhost", "newroot", "deepakdev10", "DDwall");
+$conn = new mysqli("localhost", "root", "password", "Db-name");
 
 ?>
